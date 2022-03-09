@@ -32,10 +32,8 @@ function App() {
         <div className="subheading mb-5">
         </div>
         <h2 className="About-me">About me</h2>
-        <p className="lead mb-5">Currently enrolled at University of Arizona to become a full stack developer, I am
-          hard worker and always wanting to learn new things while doing something I love, What got me into coding was, where im from everyone here does labor work or becoming a doctor or nurse, and neither of those
-          fields really caught my eye. At a young age I've worked with family in the labor field and Im just tired of working outside also theres a lot of labor business being made so there's gonna 
-          be a big overflow of labor worker, then tech came into my mind saw some vids of coding and I got really into, the way how I can solve problems and see my product working, then adding more into and fix more issues. It's something I do not mind doing at all and I love doing this even for fun, and the learning never ends!!</p>
+        <p className="lead mb-5">Was enrolled at University of Arizona to become a full stack developer, I am
+          hard worker and always wanting to learn new things while doing something I love, What got me into coding was just the idea of making my ideas actually being used by people and having impacts on peopls lives with the applicationa I build.</p>
       </div>
     </section>
     <hr className="m-0" />
@@ -154,7 +152,8 @@ function App() {
         <div className="social-icons">
           <a className="social-icon" href="https://www.linkedin.com/in/cesar-olguin-0444bb226/"><i className="fab fa-linkedin-in" /></a>
           <a className="social-icon" href="https://github.com/c3sarin1"><i className="fab fa-github" /></a>
-          <a className="social-icon" href="https://docs.google.com/document/d/1DMO6qKdQUqa2_NUbdHLCH1gouhaybjEyyXJ2XPTV10U/edit?usp=sharing"><i className="fa fa-file-pdf" /></a>
+          {/* <a className="social-icon" href="file:///src/img/Resume.pdf" download= "../src/img/Resume.pdf"><i className="fa fa-file-pdf" /></a>
+           */}
           {/* <a class="social-icon" href="#!"><i class="fab fa-facebook-f"></i></a> */}
         </div>
       </div>
