@@ -32,8 +32,8 @@ function App() {
         <div className="subheading mb-5">
         </div>
         <h2 className="About-me">About me</h2>
-        <p className="lead mb-5">Was enrolled at University of Arizona to become a full stack developer, I am
-          hard worker and always wanting to learn new things while doing something I love, What got me into coding was just the idea of making my ideas actually being used by people and having impacts on peopls lives with the applicationa I build.</p>
+        <p className="lead mb-5">Graduated from University of Arizona coding bootcamp to become a full stack developer, I can
+        demonstrate capacity to write computer codes utilizing various languages, create website layout, and maintain software documentation. Capable of building web applications from inception to completion, including planning, designing, testing, and maintenance. Knowledgeable in mitigating risks, analyzing failure, performing structure stability analysis, leading desk-based research, and developing conclusions. Aptitude for leveraging innovative technologies, improving efficiency of internal algorithms, and learning platform functionality. Technically proficient in JavaScript, HTML, CSS, React, Heroku, MongoDB, and NoSQL. Consummate communicator, with strong coding, analytical thinking, accuracy, time management, and strategic skills.</p>
       </div>
     </section>
     <hr className="m-0" />
