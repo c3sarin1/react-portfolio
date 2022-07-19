@@ -145,7 +145,7 @@ function App() {
     {/* Interests*/}
     <section className="resume-section" id="interests">
       <div className="resume-section-content">
-        <h2 className="mb-5">Contact/Resume</h2>
+        <h2 className="mb-5">Contact</h2>
         <p> (252) 702-2856 · 
           <a href="Cesar:c3sarin3@gmail.com"> c3sarin3@gmail.com</a>
         </p>
